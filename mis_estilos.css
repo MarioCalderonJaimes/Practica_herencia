@@ -1,0 +1,34 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(172, 20, 20);
+    text-shadow: 2px 2px 4px #020000;
+    font-size: 40px;
+    text-align: center;
+}
+
+button {
+    background-color: #d57387;
+    border: none;
+    color: rgb(24, 16, 16);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    background-color: rgb(182, 107, 107);
+    padding: 8px;
+    border-bottom: 1px solid #b57070;
+    text-align: center;
+}
+
